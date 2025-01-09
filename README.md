@@ -1,5 +1,7 @@
 #Intent-Based Responsive Chatbot
+
 #Project Overview
+
 This project focuses on developing an intent-based responsive chatbot that leverages Natural Language Processing (NLP) to understand and respond to user queries effectively. The chatbot can identify user intents, extract relevant entities, maintain conversation context, and generate appropriate responses. It supports continuous learning through user feedback and can be integrated across multiple platforms.
 
 #Key Features
